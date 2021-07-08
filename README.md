@@ -1,10 +1,12 @@
-## Hi, I'm Arthur! 
+## My GitHub Profile
+
+Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Alegre, Brazil. Here you'll find personal projects I made, as well as my college work. I love programming in Java, however, I'm willing to explore everything out there!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurSudbrackIbarra&count_private=true&show_icons=true&hide_border=true&theme=dracula&border_radius=25"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurSudbrackIbarra&count_private=true&show_icons=true&hide_border=true&theme=dracula&border_radius=25"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=dracula&border_radius=25"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=dracula&border_radius=25"/>
 </a>
 
 <!--
