@@ -10,30 +10,17 @@ A.S.I is my personal website, there you can find more information about me, such
   <img src="./logoWebsite.png" width="400px"/>
 </a>
 
-## Github Stats
+## GitHub Stats
 
-These are my Github stats!
+These are my GitHub stats!
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurSudbrackIbarra&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF"/>
   </a>
-  <br/><br/>
+  <!-- h2 used only for margin -->
+  <h2></h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF"/>
   </a>
 </div>
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
