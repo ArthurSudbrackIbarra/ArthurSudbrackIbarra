@@ -14,12 +14,12 @@ A.S.I is my personal website, there you can find more information about me, such
 
 These are my Github stats!
 
-<div style="display: flex;">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurSudbrackIbarra&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF" style="margin-right: 1rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurSudbrackIbarra&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF" style="margin-top: 0.5rem;"/>
   </a>
 </div>
 
