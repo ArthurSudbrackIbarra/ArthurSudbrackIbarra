@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Snake
 on:
   # Run automatically every 6 hours.
   schedule:
