@@ -25,6 +25,6 @@ These are my Github stats!
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF&exclude_repo=Trab-Final-SGBD,Trab1-PSB,Trab2-PSB"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSudbrackIbarra&langs_count=10&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=25&title_color=FFFFFF&exclude_repo=Trab-Final-SGBD,Trab2-PSB"/>
   </a>
 </div>
