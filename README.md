@@ -1,6 +1,6 @@
 ## About me
 
-Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Alegre, Brazil. Here you'll find personal projects I made, as well as my college work. I love programming in Java, however, I'm willing to explore everything out there!
+Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Alegre, Brazil. Here you'll find personal projects I made, as well as my college work!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArthurSudbrackIbarra/ArthurSudbrackIbarra/output/github-contribution-grid-snake.svg">
@@ -8,10 +8,20 @@ Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Ale
 
 ## My Personal Website
 
-A.S.I is my personal website, there you can find more information about me, such as my curriculum and a showcase of some projects I've made. Click the image to access it!
+A.S.I is my personal website, there you can find more information about me, such as my curriculum and a showcase of some projects I've made. **Click the image to access it!**
 
 <a href="https://arthursudbrackibarra.github.io">
-  <img src="./logoWebsite.png" width="400px" style="border-radius:50%"/>
+  <img src="./logoWebsite.png" width="400px"/>
+</a>
+
+## My Biggest Project
+
+Picture this: you stumble upon a promising template Git repository that could kickstart your project. Excited, you fork the repository, but soon, you realize it needs extensive adjustments. You have to replace placeholder values, tweak configurations, and adapt the code to match your project's specifications.
+
+This process can be both frustrating and error-prone. Manually searching and replacing values throughout the codebase can lead to mistakes and inconsistencies. What if you could automate this entire customization process and have a template repository that adapts itself to your needs effortlessly? That's precisely what Cloney, a free and open-source tool developed in Go, is designed to do. **Click the image to access it!**
+
+<a href="https://arthursudbrackibarra.github.io/cloney-documentation">
+  <img src="https://raw.githubusercontent.com/ArthurSudbrackIbarra/cloney/main/images/cloney-logo-rounded.png" width="300px"/>
 </a>
 
 ## GitHub Stats
