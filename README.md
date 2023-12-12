@@ -21,7 +21,7 @@ Picture this: you stumble upon a promising template Git repository that could ki
 This process can be both frustrating and error-prone. Manually searching and replacing values throughout the codebase can lead to mistakes and inconsistencies. What if you could automate this entire customization process and have a template repository that adapts itself to your needs effortlessly? That's precisely what Cloney, a free and open-source tool developed in Go, is designed to do. **Click the image to access it!**
 
 <a href="https://arthursudbrackibarra.github.io/cloney-documentation">
-  <img src="https://raw.githubusercontent.com/ArthurSudbrackIbarra/cloney/main/images/cloney-logo-rounded.png" width="300px"/>
+  <img src="https://raw.githubusercontent.com/ArthurSudbrackIbarra/cloney/main/assets/images/cloney-logo-rounded.png" width="300px"/>
 </a>
 
 ## GitHub Stats
